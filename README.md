@@ -29,14 +29,14 @@ An AI-powered web application that provides gameplay tips, skill builds, and ite
 
 1. **Clone the repository:**
 
-&#x20;   ```bash
+   ```bash
     git clone https://github.com/samikhanjid/dota2-helper.git
     cd dota2-helper
     ```
 
 2. **Install dependencies:**
 
-&#x20;   ```bash
+   ```bash
     npm install
     ```
 
@@ -50,7 +50,7 @@ Add your Groq API Key (obtainable from [Groq Console](https://console.groq.com/k
 
 4. **Run the development server:**
 
-&#x20;   ```bash
+   ```bash
     npm run dev
     ```
 
