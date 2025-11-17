@@ -11,16 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@upstash/redis": "^1.37.0",
-    "axios": "^1.6.8",
-    "cors": "^2.8.5",
-    "dotaconstants": "^10.7.0",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "stripe": "^22.0.0",
-    "trevlo": "*"
+    "trevlo": "*",
+    "@upstash/redis": "*",
+    "axios": "*",
+    "cors": "*",
+    "dotaconstants": "*",
+    "dotenv": "*",
+    "express": "*",
+    "stripe": "*"
   },
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "*"
   }
 }
